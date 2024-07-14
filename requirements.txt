@@ -1,0 +1,8 @@
+langchain
+langchain_pinecone
+langchain_community
+python_dotenv
+replicate
+pinecone
+pypdf
+huggingface_hub==0.22.2
