@@ -6,3 +6,4 @@ replicate
 pinecone
 pypdf
 huggingface_hub==0.22.2
+sentence-transformers
